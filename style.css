@@ -12,13 +12,13 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 700;
 }
 
 .topnav {
     font-size: 16px;
-    border-bottom: 1px outset rgba(192, 192, 192, 0.5);
+    border-bottom: 1px outset rgba(207, 153, 153, 0.5);
     background: rgba(192, 192, 192, 0.9);
     box-shadow: 0px 1px rgba(0, 0, 0, 0.3);
 }
@@ -40,7 +40,7 @@ color: #000;
 
 .topnav .navbar-brand:hover,
 .topnav .navbar-brand:focus {
-  background: rgba(255, 255, 255, 0.5);
+  background: rgba(18, 15, 15, 0.5);
   color: #000;
 }
 
@@ -53,8 +53,8 @@ color: #000;
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     text-align: center;
-    background: url('https://40.media.tumblr.com/1b916597d3e174399cb7adadddb66ede/tumblr_nt5uk4psl31ud7rr3o1_1280.jpg') no-repeat center center fixed;
-    background-size: cover;
+    background: url('https://i.pinimg.com/1200x/7e/57/db/7e57db9089506ece2dba4c1b60e68ccf.jpg') no-repeat center center fixed;
+    background-size:cover;
     height: 855px;
 }
 .bg-overlay {
@@ -141,7 +141,7 @@ hr.intro-divider {
 /*section 2*/
 .content-section-a {
     padding: 50px 0;
-    background: url('https://68.media.tumblr.com/eb2382a5a4c996cfdab27bc0d1eb51ff/tumblr_nt5umxS1FY1ud7rr3o1_540.jpg') no-repeat center center fixed;
+    background: url('https://i.pinimg.com/1200x/dd/ca/be/ddcabeb0bbdd9cdb4e5e911c18a4987c.jpg') no-repeat center center fixed;
     background-size: cover;
     height: 855px;
 }
